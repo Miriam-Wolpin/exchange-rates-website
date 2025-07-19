@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2rem;
+}
+
+.exchange-table {
+  margin: 2rem auto;
+  border-collapse: collapse;
+  width: 60%;
+}
+
+.exchange-table th, .exchange-table td {
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+}
+
+.exchange-table th {
+  background-color: #f2f2f2;
+  cursor: pointer;
+}
